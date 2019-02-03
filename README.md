@@ -1,0 +1,1 @@
+# intellij-keyboard-only-kata
